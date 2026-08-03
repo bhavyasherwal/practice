@@ -1,3 +1,3 @@
-let a = "Bhavya"
+let b = "Bhavya"
 
-console.log(a)
+console.log(b)
